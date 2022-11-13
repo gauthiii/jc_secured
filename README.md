@@ -3,7 +3,9 @@
 A Social Networking App with Face Authentication.
 
 Front-End : Flutter
+
 Back-End : Firebase and NodeJS
+
 Face-Auth : TensorFlow
 
 ## Getting Started
